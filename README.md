@@ -83,7 +83,9 @@ This repository serves as a reusable starting point for AI and Machine Learning 
 
 **Anthony Udem**
 
----
+**Lonasctech Technology**
+
+
 
 ## License
 
